@@ -29,7 +29,8 @@
                 </div>
                 <div class="col-4">
                     <h2><a href="http://01org.github.com/jWebAudio" target="_blank">jWebAudio</a></h2>
-                    <p>A <em>Web Audio</em> library designed for Web games, with both pure <em>JavaScript</em> version and
+                    <p>A <em>Web Audio</em> library designed for Web games, with both pure <em>JavaScript</em> version
+                        and
                         <em>jQuery</em> version.</p>
                 </div>
                 <div class="clearboth"></div>
@@ -43,7 +44,8 @@
                 <div class="col-4">
                     <h2><a href="http://read.douban.com/ebook/7412854/" target="_blank">Three.js Ebook</a></h2>
                     <p><em>Introduction to Three.js</em> is an ebook written in Chinese to help beginners to start with
-                        Three.js, which is available on both <a href="http://www.ituring.com.cn/book/1272" target="_blank">iTuring</a>
+                        Three.js, which is available on both <a href="http://www.ituring.com.cn/book/1272"
+                                                                target="_blank">iTuring</a>
                         and <a href="http://read.douban.com/ebook/7412854/" target="_blank">Douban</a>.</p>
                 </div>
                 <div class="col-2 center">
@@ -79,12 +81,14 @@
                 </div>
                 <div class="col-4">
                     <h2><a href="http://zhangwenli.com/jCorner" target="_blank">jCorner</a></h2>
-                    <p>A jQuery plugin to create a flat designed <em>paper folding effect</em> at the bottom-right corner.
+                    <p>A jQuery plugin to create a flat designed <em>paper folding effect</em> at the bottom-right
+                        corner.
                     </p>
                 </div>
                 <div class="clearboth"></div>
             </div>
-            <p class="center"><a href="http://github.com/Ovilia" target="_blank" class="highlight">And More on GitHub</a>
+            <p class="center"><a href="http://github.com/Ovilia" target="_blank" class="highlight">And More on
+                GitHub</a>
             </p>
         </div>
 
@@ -119,59 +123,61 @@
 
         <div class="section center">
             <h1>Education</h1>
-            <h4>Undergraduate and graduate student at <em>Shanghai Jiao Tong University</em></h4>
-            <p>Major in <em>Software Engineering</em></p>
-            <h3>Digital Art Lab</h3>
-            <p>Graduated on Mar, 2016</p>
-            <p>Research topic related about <em>Face Recognition</em> and <em>Avatar Synthesis</em></p>
+            <h4>Graduate at <em>Jiang Su University</em></h4>
+            <p>Major in <em>Computer Science and Technology</em></p>
+            <h3>Data Mining Lab</h3>
+            <p>Graduated on June, 2017</p>
+            <p>Research topic related about <em>Data Storage</em> and <em>Data Mining</em></p>
         </div>
 
         <div class="section center">
             <h1>Internship</h1>
 
-            <h4>Software Engineering Intern @Intel</h4>
-            <p>Sep 2012 - Feb 2013, May 2014 - Dec 2014</p>
-            <p>Related technology: Web Audio, WebGL, Three.js, WebRTC</p>
-            <p>Excellent Intern of 2014 2H</p>
+            <h4>Web Front-End Developer @Cootek</h4>
+            <p>June 2017 - Now</p>
+            <p>Feeds and Data Interaction</p>
 
-            <h4>Web Front-End Developer @Alibaba</h4>
-            <p>July 2015 - Sep 2015</p>
-            <p>Related technology: WebGL, Three.js</p>
+            <h4>Web Front-End Developer @Epub360</h4>
+            <p>Dec 2015 - July 2016</p>
+            <p>Refactor and Component Developer</p>
 
-            <h4>Web Front-End Developer @Baidu</h4>
-            <p>Oct 2015 - Mar 2016</p>
-            <p>ECharts heatmap and gallery</p>
+            <h4>Software Engineering Intern @BonContact</h4>
+            <p>Aug 2015 - Nov 2015</p>
+            <p>Developer、Test、Operations</p>
+            <p>Responsible for Maintenance</p>
+
+
         </div>
 
         <div class="section center">
             <h1>Current Position</h1>
-            <h2>Web Front-End Developer @Baidu</h2>
-            <p>In Shanghai, From Apr 2016</p>
-            <h4>Working on <a href="http://echarts.baidu.com">ECharts</a></h4>
-            <p>Data Visualization, Canvas, WebGL, JavaScript, Node.js, and etc.</p>
+            <h2>Web Front-End Developer @Cootek</h2>
+            <p>In Shanghai, From June 2017</p>
+            <h4>Working on <a href="http://www.chubao.cn/dialer/index.html">Feeds</a></h4>
+            <p>Big Data, Video, Mission System, JavaScript, Node.js, and etc.</p>
         </div>
 
         <div class="section center">
             <h1>Learn More</h1>
-            <h2><a href="http://zhangwenli.com/" target="_blank">Personal Website</a> | <a
-                    href="https://www.linkedin.com/in/wenlizhang" target="_blank">LinkedIn</a></h2>
-            <p>Email: <a href="mailto:me@zhangwenli.com" target="_blank">me@zhangwenli.com</a></p>
+            <h2><a href="http://blog.qulongjun.cn" target="_blank">Blog</a> | <a
+                    href="https://www.linkedin.com/in/qulongjun" target="_blank">LinkedIn</a></h2>
+            <p>Email: <a href="mailto:Longjun.qu@cootek.cn" target="_blank">Longjun.qu@cootek.cn</a></p>
 
             <h2><a href="Web Front-End Wenli Zhang.pdf" target="_blank" class="highlight">Download CV</a></h2>
             <div id="contact-panel">
-                <a class="social-share-element social-twitter" href="https://twitter.com/OviliaZhang" target="_blank"
-                   title="Follow me on Twitter" onclick="_gaq.push(['_trackEvent', 'Follow', 'Twitter', 'InCv']);"></a>
-                <a class="social-share-element social-google"
-                   href="https://plus.google.com/u/0/112802684720065263732?rel=author" target="_blank"
-                   title="Follow me on Google Plus" onclick="_gaq.push(['_trackEvent', 'Follow', 'GPlus', 'InCv']);"></a>
-                <a class="social-share-element social-github" href="https://github.com/Ovilia" target="_blank"
+                <a class="social-share-element social-github" href="https://github.com/qulongjun" target="_blank"
+                   title="Follow me on Github"></a>
+                <a class="social-share-element social-wechat"
+                   href="weixin://contacts/profile/qulongjun1992" target="_blank"
+                   title="Follow me on Wechat"></a>
+                <a class="social-share-element social-qq" href="https://github.com/Ovilia" target="_blank"
                    title="Follow me on GitHub" onclick="_gaq.push(['_trackEvent', 'Follow', 'GitHub', 'InCv']);"></a>
-                <a class="social-share-element social-linkedin" href="http://www.linkedin.com/profile/view?id=148742016"
+                <a class="social-share-element social-weibo" href="http://www.linkedin.com/profile/view?id=148742016"
                    target="_blank" title="Follow me on LinkedIn"
                    onclick="_gaq.push(['_trackEvent', 'Follow', 'LinkedIn', 'InCv']);"></a>
-                <a class="social-share-element social-weibo" href="http://weibo.com/plainjane" target="_blank"
+                <a class="social-share-element social-zhihu" href="http://weibo.com/plainjane" target="_blank"
                    title="Follow me on Sina Weibo" onclick="_gaq.push(['_trackEvent', 'Follow', 'Weibo', 'InCv']);"></a>
-                <a class="social-share-element social-douban" href="http://www.douban.com/people/ovilia1024/"
+                <a class="social-share-element social-mail" href="http://www.douban.com/people/ovilia1024/"
                    target="_blank" title="Follow me on Douban"
                    onclick="_gaq.push(['_trackEvent', 'Follow', 'Douban', 'InCv']);"></a>
             </div>

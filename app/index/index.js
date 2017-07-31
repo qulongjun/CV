@@ -13,6 +13,7 @@ import Container from './components/container.vue'
 
 //==========导入CSS文件===============
 import './style/index.css'
+import './style/font.css'
 import 'pagepiling.js/dist/jquery.pagepiling.min.css'
 
 Vue.config.debug = true;//开启错误提示
