@@ -24,13 +24,21 @@ config.plugins = [
         }
     }),
     new webpack.optimize.OccurenceOrderPlugin(),
+    new webpack.HotModuleReplacementPlugin(),
     // 提取css为单文件
-    new ExtractTextPlugin("../[name].[contenthash].css"),
     new HtmlWebpackPlugin({
-        filename: '../index.html',
-        template: path.resolve(__dirname, '../app/index/index.html'),
-        inject: true
-    })
+        filename: 'index.html',
+        template: 'html-withimg-loader!' + path.resolve(__dirname, '../app/index/index.html'),
+        inject: true,
+        chunks:['index']
+    }),
+    new HtmlWebpackPlugin({
+        filename: 'cn.html',
+        template: 'html-withimg-loader!' + path.resolve(__dirname, '../app/cn/index.html'),
+        inject: true,
+        chunks:['cn']
+    }),
+    new ExtractTextPlugin("[name].[hash].css")
 ];
 
 module.exports = config;

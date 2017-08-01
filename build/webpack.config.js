@@ -9,12 +9,13 @@ module.exports = {
         index: [
             './build/dev-client',
             path.resolve(__dirname, '../app/index/index.js')
-        ]
+        ],
+        cn: path.resolve(__dirname, '../app/cn/index.js')
     },
     // 输出配置
     output: {
         // 输出路径是 myProject/output/static
-        path: path.resolve(__dirname, '../output/static'),
+        path: path.resolve(__dirname, '../output'),
         publicPath: '/',
         filename: '[name].[hash].js',
         chunkFilename: '[id].[chunkhash].js'

@@ -14,10 +14,17 @@ config.plugins = [
     new webpack.NoErrorsPlugin(),
     new HtmlWebpackPlugin({
         filename: 'index.html',
-        template: path.resolve(__dirname, '../app/index/index.html'),
-        inject: true
+        template: 'html-withimg-loader!' + path.resolve(__dirname, '../app/index/index.html'),
+        inject: true,
+        chunks:['index']
     }),
-    new ExtractTextPlugin("styles.css")
+    new HtmlWebpackPlugin({
+        filename: 'cn.html',
+        template: 'html-withimg-loader!' + path.resolve(__dirname, '../app/cn/index.html'),
+        inject: true,
+        chunks:['cn']
+    }),
+    new ExtractTextPlugin("[name].[hash].css")
 ];
 
 // 动态向入口配置中注入 webpack-hot-middleware/client
