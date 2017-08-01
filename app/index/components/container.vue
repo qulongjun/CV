@@ -14,80 +14,69 @@
             <h1>Projects</h1>
             <div class="row">
                 <div class="col-2 center">
-                    <a class="circle-img" href="http://github.com/Ovilia/Polyvia" target="_blank">
-                        <img src="../img/zhujianer.png" alt="Polyvia"/>
+                    <a class="circle-img" href="https://github.com/qulongjun/Blog" target="_blank">
+                        <img src="../img/blog.png" alt="Blog"/>
                     </a>
                 </div>
                 <div class="col-4">
-                    <h2><a href="http://github.com/Ovilia/Polyvia" target="_blank">Polyvia</a></h2>
-                    <p>Low-poly generator for image and video processing.</p>
+                    <h2><a href="https://github.com/qulongjun/Blog" target="_blank">Enar</a></h2>
+                    <p>Light Blog that Logs the Details of Life</p>
                 </div>
                 <div class="col-2 center">
-                    <a class="circle-img" href="http://01org.github.com/jWebAudio" target="_blank">
-                        <img src="../img/jwebaudio.png" alt="jWebAudio"/>
+                    <a class="circle-img" href="https://github.com/qulongjun/DataEngine_SDK" target="_blank">
+                        <img src="../img/connect.png" alt="DataEngine_SDK"/>
                     </a>
                 </div>
                 <div class="col-4">
-                    <h2><a href="http://01org.github.com/jWebAudio" target="_blank">jWebAudio</a></h2>
-                    <p>A <em>Web Audio</em> library designed for Web games, with both pure <em>JavaScript</em> version
-                        and
-                        <em>jQuery</em> version.</p>
+                    <h2><a href="https://github.com/qulongjun/DataEngine_SDK" target="_blank">DataEngine SDK</a></h2>
+                    <p>Visual Database Communication SDK Based on JavaScript</p>
                 </div>
                 <div class="clearboth"></div>
             </div>
             <div class="row">
                 <div class="col-2 center">
-                    <a class="circle-img" href="http://www.ituring.com.cn/book/1272" target="_blank">
-                        <img src="../img/book.png" alt="jCorner"/>
+                    <a class="circle-img" href="https://github.com/qulongjun/JTable" target="_blank">
+                        <img src="../img/table.png" alt="JTable"/>
                     </a>
                 </div>
                 <div class="col-4">
-                    <h2><a href="http://read.douban.com/ebook/7412854/" target="_blank">Three.js Ebook</a></h2>
-                    <p><em>Introduction to Three.js</em> is an ebook written in Chinese to help beginners to start with
-                        Three.js, which is available on both <a href="http://www.ituring.com.cn/book/1272"
-                                                                target="_blank">iTuring</a>
-                        and <a href="http://read.douban.com/ebook/7412854/" target="_blank">Douban</a>.</p>
+                    <h2><a href="https://github.com/qulongjun/JTable" target="_blank">JTable</a></h2>
+                    <p>Dynamic Table Component Based on JQuery</p>
                 </div>
                 <div class="col-2 center">
-                    <a class="circle-img" href="http://zhangwenli.com/blog/2014/09/01/handian-chrome-extension/"
+                    <a class="circle-img" href="https://github.com/qulongjun/Jun-CLI"
                        target="_blank">
-                        <img src="../img/chrome.png" alt="Chrome Extensions"/>
+                        <img src="../img/build.png" alt="Jun-CLI"/>
                     </a>
                 </div>
                 <div class="col-4">
-                    <h2><a href="http://zhangwenli.com/blog/2014/09/01/handian-chrome-extension/" target="_blank">Chrome
-                        Extensions</a></h2>
-                    <p><a href="http://zhangwenli.com/blog/2014/09/01/handian-chrome-extension/" target="_blank">Handian
-                        Immediate Translate Tool</a> and <a
-                            href="http://zhangwenli.com/blog/2014/09/01/readfree-chrome-extension/" target="_blank">ReadFree
-                        to Douban</a> are two useful Chrome Extensions for Chinese readers.</p>
+                    <h2><a href="https://github.com/qulongjun/Jun-CLI" target="_blank">Jun CLI</a></h2>
+                    <p>Front-End Build Tools Based on Vue and Webpack</p>
                 </div>
                 <div class="clearboth"></div>
             </div>
             <div class="row">
                 <div class="col-2 center">
-                    <a class="circle-img" href="http://zhangwenli.com/biangua" target="_blank">
-                        <img src="../img/biangua.png" alt="Bian Gua"/>
+                    <a class="circle-img" href="https://github.com/LIMSBuilder/LIMS_Front" target="_blank">
+                        <img src="../img/laboratory.png" alt="LIMS"/>
                     </a>
                 </div>
                 <div class="col-4">
-                    <h2><a href="http://zhangwenli.com/biangua" target="_blank">Bian Gua</a></h2>
-                    <p>A showcase of CSS and JavaScript.</p>
+                    <h2><a href="https://github.com/LIMSBuilder/LIMS_Front" target="_blank">LIMS</a></h2>
+                    <p>Laboratory Information Management System</p>
                 </div>
                 <div class="col-2 center">
-                    <a class="circle-img" href="http://zhangwenli.com/jCorner" target="_blank">
-                        <img src="../img/jcorner.png" alt="jCorner"/>
+                    <a class="circle-img" href="https://github.com/qulongjun/JQuery_Pagination" target="_blank">
+                        <img src="../img/page.png" alt="JQuery_Pagination"/>
                     </a>
                 </div>
                 <div class="col-4">
-                    <h2><a href="http://zhangwenli.com/jCorner" target="_blank">jCorner</a></h2>
-                    <p>A jQuery plugin to create a flat designed <em>paper folding effect</em> at the bottom-right
-                        corner.
-                    </p>
+                    <h2><a href="https://github.com/qulongjun/JQuery_Pagination" target="_blank">Pagination</a></h2>
+                    <p>Simple Page Number Control</p>
                 </div>
                 <div class="clearboth"></div>
             </div>
-            <p class="center"><a href="http://github.com/Ovilia" target="_blank" class="highlight">And More on
+            <p class="center"><a href="http://github.com/qulongjun" target="_blank" class="highlight">And More on
                 GitHub</a>
             </p>
         </div>
@@ -102,22 +91,22 @@
                 <div class="tag expert">JavaScript</div>
                 <div class="tag expert">jQuery</div>
                 <div class="tag expert">Bootstrap</div>
-                <div class="tag familiar">Three.js</div>
-                <div class="tag familiar">WebGL</div>
+                <div class="tag familiar">WebPack</div>
+                <div class="tag familiar">Vue</div>
             </div>
             <div class="tag-panel">
                 <div class="tag familiar">HTML5</div>
-                <div class="tag familiar">Web Audio</div>
-                <div class="tag">WebRTC</div>
+                <div class="tag familiar">Mock</div>
+                <div class="tag">Nightmare</div>
             </div>
             <div class="tag-panel">
                 <div class="tag expert">Web Design</div>
-                <div class="tag familiar">Flat Design</div>
-                <div class="tag familiar">Audio & Video Editing</div>
+                <div class="tag familiar">End-to-End Separation</div>
+                <div class="tag familiar">Component Develop</div>
             </div>
             <div class="tag-panel">
-                <div class="tag expert">PhotoShop</div>
-                <div class="tag expert">InkScape</div>
+                <div class="tag expert">Java</div>
+                <div class="tag expert">JFinal</div>
             </div>
         </div>
 
@@ -163,23 +152,17 @@
                     href="https://www.linkedin.com/in/qulongjun" target="_blank">LinkedIn</a></h2>
             <p>Email: <a href="mailto:Longjun.qu@cootek.cn" target="_blank">Longjun.qu@cootek.cn</a></p>
 
-            <h2><a href="Web Front-End Wenli Zhang.pdf" target="_blank" class="highlight">Download CV</a></h2>
+            <h2><a href="javascript:alert('comming soon...')" target="_blank" class="highlight">Download CV</a></h2>
             <div id="contact-panel">
                 <a class="social-share-element social-github" href="https://github.com/qulongjun" target="_blank"
                    title="Follow me on Github"></a>
                 <a class="social-share-element social-wechat"
                    href="weixin://contacts/profile/qulongjun1992" target="_blank"
                    title="Follow me on Wechat"></a>
-                <a class="social-share-element social-qq" href="https://github.com/Ovilia" target="_blank"
-                   title="Follow me on GitHub" onclick="_gaq.push(['_trackEvent', 'Follow', 'GitHub', 'InCv']);"></a>
-                <a class="social-share-element social-weibo" href="http://www.linkedin.com/profile/view?id=148742016"
-                   target="_blank" title="Follow me on LinkedIn"
-                   onclick="_gaq.push(['_trackEvent', 'Follow', 'LinkedIn', 'InCv']);"></a>
-                <a class="social-share-element social-zhihu" href="http://weibo.com/plainjane" target="_blank"
-                   title="Follow me on Sina Weibo" onclick="_gaq.push(['_trackEvent', 'Follow', 'Weibo', 'InCv']);"></a>
-                <a class="social-share-element social-mail" href="http://www.douban.com/people/ovilia1024/"
-                   target="_blank" title="Follow me on Douban"
-                   onclick="_gaq.push(['_trackEvent', 'Follow', 'Douban', 'InCv']);"></a>
+                <a class="social-share-element social-zhihu" href="https://www.zhihu.com/people/qu-long-jun/activities"
+                   target="_blank"
+                   title="Follow me on Zhihu"></a>
+
             </div>
         </div>
     </div>

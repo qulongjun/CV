@@ -150,7 +150,7 @@
                     href="http://www.linkedin.com/in/qulongjun" target="_blank">LinkedIn</a></h2>
             <p>邮箱: <a href="mailto:Longjun.qu@cootek.cn" target="_blank">Longjun.qu@cootek.cn</a></p>
 
-            <h2><a href="Web Front-End Wenli Zhang.pdf" target="_blank" class="highlight">下载简历</a></h2>
+            <h2><a href="javascript:alert('comming soon...')" target="_blank" class="highlight">下载简历</a></h2>
             <div id="contact-panel">
                 <a class="social-share-element social-github" href="https://github.com/qulongjun" target="_blank"
                    title="Follow me on Github"></a>
