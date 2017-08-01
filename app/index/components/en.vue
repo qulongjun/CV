@@ -193,14 +193,12 @@
             } else {
                 var en = ['Home', 'Projects', 'Professions', 'Education',
                     'Internship', 'Current Position', 'Contact Me'];
-                var cn = ['首页', '项目', '技能', '教育', '实习', '供职', '联系'];
-                var isCn = window.location.href.indexOf('cn') >= 0;
                 $('.section').addClass('initing');
                 $('#pagepiling').pagepiling({
                     loopBottom: true,
                     navigation: {
                         'position': 'left',
-                        'tooltips': isCn ? cn : en
+                        'tooltips': en
                     },
                     onLeave: function (index, nextIndex, direction) {
                         var $pages = $('.section');
