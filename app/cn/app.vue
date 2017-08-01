@@ -1,8 +1,8 @@
 <template>
     <div>
         <div id="lang-panel">
-            <a class="lang" href="/cn.html">中</a>
-            <a class="lang selected" href="/">En</a>
+            <a class="lang selected" href="/cn.html">中</a>
+            <a class="lang" href="/">En</a>
         </div>
         <!--组件Demo-->
         <my-component></my-component>
