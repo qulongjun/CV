@@ -1,99 +1,84 @@
 <template>
     <div id="pagepiling">
         <div class="section center" id="home">
-            <img id="avatar" src="http://cdn.qulongjun.cn/touxiang.jpg"/>
-            <h1 id="title">LongJun Qu</h1>
-            <p id="subtitle">A Passionate, Creative, and Devoted</p>
-            <h4>Web Front-End Developer @Cootek</h4>
-
-            <h6><a href="http://blog.qulongjun.cn" target="_blank">Blog</a></h6>
+            <img id="avatar" src="http://cdn.qulongjun.cn/touxiang.jpg" />
+            <h1 id="title">瞿龙俊</h1>
+            <p id="subtitle">一腔热血的激情 · 一夜失眠的创意 · 一个像素的执着</p>
+            <h4>前端研发工程师@触宝科技</h4>
+            <h6><a href="http://blog.qulongjun.cn" target="_blank">博客</a></h6>
             <p><a href="mailto:Longjun.qu@cootek.cn">Longjun.qu@cootek.cn</a></p>
         </div>
 
         <div class="section" id="project">
-            <h1>Projects</h1>
+            <h1>项目经验</h1>
             <div class="row">
                 <div class="col-2 center">
                     <a class="circle-img" href="http://github.com/Ovilia/Polyvia" target="_blank">
-                        <img src="../img/zhujianer.png" alt="Polyvia"/>
+                        <img src="img/zhujianer.png" alt="Polyvia" />
                     </a>
                 </div>
                 <div class="col-4">
                     <h2><a href="http://github.com/Ovilia/Polyvia" target="_blank">Polyvia</a></h2>
-                    <p>Low-poly generator for image and video processing.</p>
+                    <p>Low-poly 风格视频、图像处理。</p>
                 </div>
                 <div class="col-2 center">
                     <a class="circle-img" href="http://01org.github.com/jWebAudio" target="_blank">
-                        <img src="../img/jwebaudio.png" alt="jWebAudio"/>
+                        <img src="img/jwebaudio.png" alt="jWebAudio" />
                     </a>
                 </div>
                 <div class="col-4">
                     <h2><a href="http://01org.github.com/jWebAudio" target="_blank">jWebAudio</a></h2>
-                    <p>A <em>Web Audio</em> library designed for Web games, with both pure <em>JavaScript</em> version
-                        and
-                        <em>jQuery</em> version.</p>
+                    <p>为网页游戏定制的 Web Audio 库，支持纯 JavaScript 和 jQuery 版本。</p>
                 </div>
                 <div class="clearboth"></div>
             </div>
             <div class="row">
                 <div class="col-2 center">
                     <a class="circle-img" href="http://www.ituring.com.cn/book/1272" target="_blank">
-                        <img src="../img/book.png" alt="jCorner"/>
+                        <img src="img/book.png" alt="jCorner" />
                     </a>
                 </div>
                 <div class="col-4">
-                    <h2><a href="http://read.douban.com/ebook/7412854/" target="_blank">Three.js Ebook</a></h2>
-                    <p><em>Introduction to Three.js</em> is an ebook written in Chinese to help beginners to start with
-                        Three.js, which is available on both <a href="http://www.ituring.com.cn/book/1272"
-                                                                target="_blank">iTuring</a>
-                        and <a href="http://read.douban.com/ebook/7412854/" target="_blank">Douban</a>.</p>
+                    <h2><a href="http://read.douban.com/ebook/7412854/" target="_blank">Three.js 电子书</a></h2>
+                    <p>《Three.js 入门指南》旨在帮助初学者学习 Three.js，在<a href="http://www.ituring.com.cn/book/1272" target="_blank">图灵社区</a>和<a href="http://read.douban.com/ebook/7412854/" target="_blank">豆瓣阅读</a>均可免费下载。</p>
                 </div>
                 <div class="col-2 center">
-                    <a class="circle-img" href="http://zhangwenli.com/blog/2014/09/01/handian-chrome-extension/"
-                       target="_blank">
-                        <img src="../img/chrome.png" alt="Chrome Extensions"/>
+                    <a class="circle-img" href="http://zhangwenli.com/blog/2014/09/01/handian-chrome-extension/" target="_blank">
+                        <img src="img/chrome.png" alt="Chrome Extensions" />
                     </a>
                 </div>
                 <div class="col-4">
-                    <h2><a href="http://zhangwenli.com/blog/2014/09/01/handian-chrome-extension/" target="_blank">Chrome
-                        Extensions</a></h2>
-                    <p><a href="http://zhangwenli.com/blog/2014/09/01/handian-chrome-extension/" target="_blank">Handian
-                        Immediate Translate Tool</a> and <a
-                            href="http://zhangwenli.com/blog/2014/09/01/readfree-chrome-extension/" target="_blank">ReadFree
-                        to Douban</a> are two useful Chrome Extensions for Chinese readers.</p>
+                    <h2><a href="http://zhangwenli.com/blog/2014/09/01/handian-chrome-extension/" target="_blank">Chrome 插件</a></h2>
+                    <p><a href="http://zhangwenli.com/blog/2014/09/01/handian-chrome-extension/" target="_blank">划词搜索的汉典插件</a>和 <a href="http://zhangwenli.com/blog/2014/09/01/readfree-chrome-extension/" target="_blank">ReadFree 豆瓣传送门</a>是两个对中文读者非常有帮助的插件。</p>
                 </div>
                 <div class="clearboth"></div>
             </div>
             <div class="row">
                 <div class="col-2 center">
                     <a class="circle-img" href="http://zhangwenli.com/biangua" target="_blank">
-                        <img src="../img/biangua.png" alt="Bian Gua"/>
+                        <img src="img/biangua.png" alt="Bian Gua" />
                     </a>
                 </div>
                 <div class="col-4">
                     <h2><a href="http://zhangwenli.com/biangua" target="_blank">Bian Gua</a></h2>
-                    <p>A showcase of CSS and JavaScript.</p>
+                    <p>CSS 和 JavaScript 制作的易经六十四卦变卦特效。</p>
                 </div>
                 <div class="col-2 center">
                     <a class="circle-img" href="http://zhangwenli.com/jCorner" target="_blank">
-                        <img src="../img/jcorner.png" alt="jCorner"/>
+                        <img src="img/jcorner.png" alt="jCorner" />
                     </a>
                 </div>
                 <div class="col-4">
                     <h2><a href="http://zhangwenli.com/jCorner" target="_blank">jCorner</a></h2>
-                    <p>A jQuery plugin to create a flat designed <em>paper folding effect</em> at the bottom-right
-                        corner.
-                    </p>
+                    <p>翘起纸张一个小角特效的 jQuery 插件。</p>
                 </div>
                 <div class="clearboth"></div>
             </div>
-            <p class="center"><a href="http://github.com/Ovilia" target="_blank" class="highlight">And More on
-                GitHub</a>
-            </p>
+            <p class="center">更多精彩，敬请移步 <a href="http://github.com/Ovilia" target="_blank" class="highlight">GitHub</a></p>
         </div>
 
         <div class="section center" id="profession">
-            <h1>Professions</h1>
+            <h1>擅长技术</h1>
             <div class="tag-panel">
                 <div class="tag expert">CSS</div>
                 <div class="tag familiar">SCSS</div>
@@ -111,9 +96,9 @@
                 <div class="tag">WebRTC</div>
             </div>
             <div class="tag-panel">
-                <div class="tag expert">Web Design</div>
-                <div class="tag familiar">Flat Design</div>
-                <div class="tag familiar">Audio & Video Editing</div>
+                <div class="tag expert">网页设计</div>
+                <div class="tag familiar">平面设计</div>
+                <div class="tag familiar">音视频编辑</div>
             </div>
             <div class="tag-panel">
                 <div class="tag expert">PhotoShop</div>
@@ -122,48 +107,47 @@
         </div>
 
         <div class="section center">
-            <h1>Education</h1>
-            <h4>Graduate at <em>Jiang Su University</em></h4>
-            <p>Major in <em>Computer Science and Technology</em></p>
-            <h3>Data Mining Lab</h3>
-            <p>Graduated on June, 2017</p>
-            <p>Research topic related about <em>Data Storage</em> and <em>Data Mining</em></p>
+            <h1>教育背景</h1>
+            <h4>江苏大学 硕士研究生</h4>
+            <p>计算机科学与技术专业</p>
+            <h3>数据挖掘实验室</h3>
+            <p>2017年6月毕业</p>
+            <p>研究课题数据存储、数据挖掘相关</p>
         </div>
 
         <div class="section center">
-            <h1>Internship</h1>
+            <h1>实习经历</h1>
 
-            <h4>Web Front-End Developer @Cootek</h4>
-            <p>June 2017 - Now</p>
-            <p>Feeds and Data Interaction</p>
+            <h4>前端工程师@触宝科技</h4>
+            <p>2017年6月 - 至今</p>
+            <p>Feeds流和数据交互</p>
 
-            <h4>Web Front-End Developer @Epub360</h4>
-            <p>Dec 2015 - July 2016</p>
-            <p>Refactor and Component Developer</p>
+            <h4>前端工程师@Epub360</h4>
+            <p>2015年12月 - 2016年7月</p>
+            <p>重构和组件开发</p>
 
-            <h4>Software Developer @BonContact</h4>
-            <p>Aug 2015 - Nov 2015</p>
-            <p>Developer、Test、Operations</p>
-            <p>Responsible for Maintenance</p>
-
+            <h4>软件开发工程师@邦达诚科技</h4>
+            <p>2015年8月 - 2015年12月</p>
+            <p>研发、测试、运营</p>
+            <p>负责长期运维</p>
 
         </div>
 
         <div class="section center">
-            <h1>Current Position</h1>
-            <h2>Web Front-End Developer @Cootek</h2>
-            <p>In Shanghai, From June 2017</p>
-            <h4>Working on <a href="http://www.chubao.cn/dialer/index.html">Feeds</a></h4>
-            <p>Big Data, Video, Mission System, JavaScript, Node.js, and etc.</p>
+            <h1>目前供职</h1>
+            <h2>前端研发工程师@触宝科技</h2>
+            <h4>从事 <a href="http://www.chubao.cn/dialer/index.html">Feeds流</a> 相关工作</h4>
+            <p>工作地点：上海</p>
+            <p>涉及大数据、视频、任务系统、JavaScript、Node.js 等</p>
         </div>
 
         <div class="section center">
-            <h1>Learn More</h1>
-            <h2><a href="http://blog.qulongjun.cn" target="_blank">Blog</a> | <a
+            <h1>了解更多</h1>
+            <h2><a href="http://blog.qulongjun.cn" target="_blank">博客</a> | <a
                     href="https://www.linkedin.com/in/qulongjun" target="_blank">LinkedIn</a></h2>
-            <p>Email: <a href="mailto:Longjun.qu@cootek.cn" target="_blank">Longjun.qu@cootek.cn</a></p>
+            <p>邮箱: <a href="mailto:Longjun.qu@cootek.cn" target="_blank">Longjun.qu@cootek.cn</a></p>
 
-            <h2><a href="Web Front-End Wenli Zhang.pdf" target="_blank" class="highlight">Download CV</a></h2>
+            <h2><a href="Web Front-End Wenli Zhang.pdf" target="_blank" class="highlight">下载简历</a></h2>
             <div id="contact-panel">
                 <a class="social-share-element social-github" href="https://github.com/qulongjun" target="_blank"
                    title="Follow me on Github"></a>
@@ -218,3 +202,4 @@
         }
     };
 </script>
+

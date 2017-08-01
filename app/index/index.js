@@ -3,7 +3,6 @@ import Vue from 'vue'
 import VueResource from 'vue-resource'
 import 'mod/jquery'
 import 'pagepiling.js'
-import './js/index'
 import router from './router/router'
 
 //===========导入Vue组件==============
@@ -25,4 +24,3 @@ new Vue({
     render: h => h(App),
     router,
 }).$mount('#app');
-
