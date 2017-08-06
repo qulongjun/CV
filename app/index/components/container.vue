@@ -152,7 +152,7 @@
                     href="https://www.linkedin.com/in/qulongjun" target="_blank">LinkedIn</a></h2>
             <p>Email: <a href="mailto:Longjun.qu@cootek.cn" target="_blank">Longjun.qu@cootek.cn</a></p>
 
-            <h2><a href="javascript:alert('comming soon...')" target="_blank" class="highlight">Download CV</a></h2>
+            <h2><a href="http://cdn.qulongjun.cn/resume_V1.0.pdf" target="_blank" class="highlight">Download CV</a></h2>
             <div id="contact-panel">
                 <a class="social-share-element social-github" href="https://github.com/qulongjun" target="_blank"
                    title="Follow me on Github"></a>
