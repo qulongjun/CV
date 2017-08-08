@@ -22,3 +22,12 @@ Vue.component('my-component', Container);
 new Vue({
     render: h => h(App),
 }).$mount('#app');
+
+//百度统计代码，勿删
+var _hmt = _hmt || [];
+(function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?7708f6fa6ea985db4bdcde4c64a22161";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+})();
