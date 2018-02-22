@@ -4,12 +4,10 @@
             <img id="avatar" src="http://cdn.qulongjun.cn/touxiang.jpg"/>
             <h1 id="title">LongJun Qu</h1>
             <p id="subtitle">A Passionate, Creative, and Devoted</p>
-            <h4>Web Front-End Developer @Cootek</h4>
-
-            <h6><a href="http://blog.qulongjun.cn" target="_blank">Blog</a></h6>
-            <p><a href="mailto:Longjun.qu@cootek.cn">Longjun.qu@cootek.cn</a></p>
+            <h4 style="margin: 20px 0">Web Front-End Developer @Cootek</h4>
+            <h6><a href="https://qulongjun.com" target="_blank">LuoSu | Blog</a></h6>
+            <p><a href="mailto:qulongjun12@163.com">qulongjun12@163.com</a></p>
         </div>
-
         <div class="section" id="project">
             <h1>Projects</h1>
             <div class="row">

@@ -6,9 +6,9 @@ var PluginsPath = path.resolve(__dirname, '../app/global/plugins')
 module.exports = {
     // 入口文件，path.resolve()方法，可以结合我们给定的两个参数最后生成绝对路径，最终指向的就是我们的index.js文件
     entry: {
-        index: [
+        en: [
             './build/dev-client',
-            path.resolve(__dirname, '../app/index/index.js')
+            path.resolve(__dirname, '../app/en/index.js')
         ],
         cn: path.resolve(__dirname, '../app/cn/index.js')
     },
