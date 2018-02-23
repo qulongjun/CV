@@ -1,7 +1,7 @@
 <template>
     <div id="pagepiling">
         <div class="section center" id="home">
-            <img id="avatar" src="http://cdn.qulongjun.cn/touxiang.jpg"/>
+            <img id="avatar" src="https://cdn.qulongjun.cn/touxiang.jpg"/>
             <h1 id="title">瞿龙俊</h1>
             <p id="subtitle">一腔热血的激情 · 一夜失眠的创意 · 一个像素的执着</p>
             <h4 style="margin: 20px 0">前端研发工程师 @ 触宝</h4>

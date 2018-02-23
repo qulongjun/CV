@@ -28,15 +28,15 @@ config.plugins = [
     // 提取css为单文件
     new HtmlWebpackPlugin({
         filename: 'index.html',
-        template: 'html-withimg-loader!' + path.resolve(__dirname, '../app/index/index.html'),
+        template: 'html-withimg-loader!' + path.resolve(__dirname, '../app/cn/index.html'),
         inject: true,
         chunks:['index']
     }),
     new HtmlWebpackPlugin({
-        filename: 'cn.html',
-        template: 'html-withimg-loader!' + path.resolve(__dirname, '../app/cn/index.html'),
+        filename: 'en.html',
+        template: 'html-withimg-loader!' + path.resolve(__dirname, '../app/en/index.html'),
         inject: true,
-        chunks:['cn']
+        chunks:['en']
     }),
     new ExtractTextPlugin("[name].[hash].css")
 ];

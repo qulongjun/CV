@@ -10,13 +10,13 @@ module.exports = {
             './build/dev-client',
             path.resolve(__dirname, '../app/en/index.js')
         ],
-        cn: path.resolve(__dirname, '../app/cn/index.js')
+        index: path.resolve(__dirname, '../app/cn/index.js')
     },
     // 输出配置
     output: {
         // 输出路径是 myProject/output/static
         path: path.resolve(__dirname, '../output'),
-        publicPath: 'http://cdn.qulongjun.cn/cv/',
+        publicPath: '/',
         filename: '[name].[hash].js',
         chunkFilename: '[id].[chunkhash].js'
     },

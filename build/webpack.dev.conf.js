@@ -16,7 +16,7 @@ config.plugins = [
         filename: 'index.html',
         template: 'html-withimg-loader!' + path.resolve(__dirname, '../app/cn/index.html'),
         inject: true,
-        chunks:['cn']
+        chunks:['index']
     }),
     new HtmlWebpackPlugin({
         filename: 'en.html',
